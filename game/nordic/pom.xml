@@ -11,7 +11,7 @@
     <groupId>org.cashempire</groupId>
     <artifactId>nordic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Nordic</name>
+    <name>nordic</name>
     <description>Nordic</description>
 
     <properties>

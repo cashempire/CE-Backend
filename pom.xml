@@ -30,7 +30,6 @@
 
   <modules>
     <module>lib/common</module>
-    <module>commons/apiservice</module>
     <module>commons/gamelaunch</module>
     <module>game/nordic</module>
   </modules>
