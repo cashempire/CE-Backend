@@ -4,7 +4,7 @@
 
   <groupId>org.cashempire</groupId>
   <artifactId>cashempire</artifactId>
-  <name>CashEmpire</name>
+  <name>cashempire</name>
   <version>1.0</version>
   <packaging>pom</packaging>
 
@@ -30,7 +30,6 @@
 
   <modules>
     <module>lib/common</module>
-    <module>commons/gamelaunch</module>
     <module>game/nordic</module>
   </modules>
 
