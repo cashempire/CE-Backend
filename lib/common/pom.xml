@@ -10,8 +10,8 @@
   </parent>
 
   <groupId>org.cashempire</groupId>
-  <artifactId>common</artifactId>
-  <name>common</name>
+  <artifactId>gamelibs</artifactId>
+  <name>gamelibs</name>
   <version>1.0</version>
   <packaging>jar</packaging>
 
